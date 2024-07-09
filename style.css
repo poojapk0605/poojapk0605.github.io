@@ -16,6 +16,26 @@ body {
 
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.navbar {
+  padding: 10px 20px; /* Adjust the padding as needed */
+  font-size: 7px; /* Adjust the font size as needed */
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: #fff; /* Change as needed */
+  z-index: 1000;
+  transition: top 0.3s;
+}
+
+.navbar a {
+  font-size: 14px; /* Adjust the font size as needed */
+}
+
 html {
   scroll-behavior: smooth;
   scroll-snap-type: y mandatory;
@@ -73,6 +93,21 @@ a:hover {
 
 .logo:hover {
   cursor: default;
+}
+
+/* Sticky Navbar */
+
+.content {
+  margin-top: 50px; /* Adjust based on the navbar height */
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: white;
+  z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 /* HAMBURGER MENU */
@@ -182,9 +217,18 @@ section {
 
 .section__pic-container {
   display: flex;
+  justify-content: center;
+  align-items: center;
   height: 400px;
   width: 400px;
-  margin: auto 0;
+  margin: auto;
+}
+
+.section__pic-container img {
+  border-radius: 50%;
+  width: 430px; /* Adjust the width as needed */
+  height: 430px; /* Adjust the height as needed */
+  object-fit: cover;
 }
 
 .section__text {
@@ -376,14 +420,19 @@ article .icon {
 }
 
 .project-img {
-  border-radius: 2rem;
+  /* border-radius: 2rem;
   width: 90%;
-  height: 90%;
+  height: 90%; */
+  width: 100%;
+  height: auto;
+  max-width: 1000px;
+  max-height: 1000px;
 }
 
 .project-title {
   margin: 1rem;
   color: black;
+  text-align: center;
 }
 
 .project-btn {
@@ -442,7 +491,6 @@ footer p {
   text-align: center;
 }
 
-
 .carousel-container {
   display: flex;
   align-items: center;
@@ -483,4 +531,3 @@ footer p {
 .right-btn {
   right: 0;
 }
-
