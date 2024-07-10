@@ -21,7 +21,7 @@ body::-webkit-scrollbar {
 }
 
 .navbar {
-  padding: 10px 20px; /* Adjust the padding as needed */
+  /* Adjust the padding as needed */
   font-size: 7px; /* Adjust the font size as needed */
   position: fixed;
   width: 100%;
@@ -32,9 +32,6 @@ body::-webkit-scrollbar {
   transition: top 0.3s;
 }
 
-.navbar a {
-  font-size: 14px; /* Adjust the font size as needed */
-}
 
 html {
   scroll-behavior: smooth;
@@ -65,7 +62,10 @@ nav,
 nav {
   justify-content: space-around;
   align-items: center;
-  height: 17vh;
+  height: 12vh;
+  background-color: rgb(255, 255, 255);
+  z-index: 1000;
+  box-shadow: 0 3px 7px rgba(0, 0, 0, 0.1);
 }
 
 .nav-links {
@@ -346,6 +346,7 @@ section {
   position: absolute;
   right: -5rem;
   bottom: 2.5rem;
+  
 }
 
 .details-container {
