@@ -193,13 +193,13 @@ a:hover {
 /* SECTIONS */
 
 section {
-  padding-top: 4vh;
-  height: 96vh;
+  padding-top: 14vh;
+  /* height: 96vh; */
   margin: 0 10rem;
   box-sizing: border-box;
   min-height: fit-content;
   scroll-snap-align: start;
-  height: 100vh;
+  height: 120vh;
 }
 
 .section-container {
@@ -325,7 +325,7 @@ section {
 .about-containers {
   gap: 2rem;
   margin-bottom: 2rem;
-  margin-top: 2rem;
+  /* margin-top: 2rem; */
 }
 
 .about-details-container {
@@ -447,7 +447,9 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 70vh;
+  padding: 6rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 .contact-info-upper-container {
