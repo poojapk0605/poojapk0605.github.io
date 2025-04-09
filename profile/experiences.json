@@ -1,0 +1,18 @@
+{
+    "experiences": [
+        {
+            "title": "Messaging Engineer - DevOps Engineer",
+            "subtitle": "HCL Technologies",
+            "workType": "Full-time",
+            "dateText": "08/2021 – 08/2023",
+            "workDescription": ["Built and secured cloud infrastructure using Terraform, GitHub Actions, and Jenkins, integrating CI/CD and IAM-based RBAC policies for AWS environments."]
+        },
+        {
+            "title": "Junior Cloud Ops Engineer",
+            "subtitle": "Concentrix",
+            "workType": "Full-time",
+            "dateText": "12/2019 – 07/2021",
+            "workDescription": ["Migrated hybrid workloads to AWS and GCP, automated ops with PowerShell and Jenkins, and improved deployment efficiency and incident response."]
+        }
+    ]
+}

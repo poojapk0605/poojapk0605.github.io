@@ -1,0 +1,75 @@
+{
+    "intro": "I enjoy building reliable, scalable infrastructure and experimenting with DevOps, MLOps, and IoT technologies. Here are some tools, languages, and platforms I've worked with:",
+  
+    "skills": [
+      {
+        "title": "Languages & Databases",
+        "items": [
+          { "icon": "images/skills/java.png", "title": "Java" },
+          { "icon": "images/skills/python.png", "title": "Python" },
+          { "icon": "images/skills/js.png", "title": "JavaScript" },
+          { "icon": "images/skills/mysql.png", "title": "MySQL" },
+          { "icon": "images/skills/postresql.png", "title": "PostgreSQL" }
+        ]
+      },
+      {
+        "title": "Scripting & Automation",
+        "items": [
+          { "icon": "images/skills/bash.png", "title": "Bash" },
+          { "icon": "images/skills/powershell.png", "title": "PowerShell" },
+          { "icon": "images/skills/yaml.png", "title": "YAML" },
+          { "icon": "images/skills/automation.png", "title": "Automation Scripts" }
+        ]
+      },
+      {
+        "title": "Cloud Platforms",
+        "items": [
+          { "icon": "images/skills/gcp.png", "title": "GCP" },
+          { "icon": "images/skills/aws.png", "title": "AWS" },
+          { "icon": "images/skills/azure.png", "title": "Azure" }
+        ]
+      },
+      {
+        "title": "CI/CD & DevOps Tools",
+        "items": [
+          { "icon": "images/skills/github-actions.png", "title": "GitHub Actions" },
+          { "icon": "images/skills/jenkins.png", "title": "Jenkins" },
+          { "icon": "images/skills/git.png", "title": "Git" },
+          { "icon": "images/skills/docker.png", "title": "Docker" },
+          { "icon": "images/skills/kubenetes.png", "title": "Kubernetes" },
+          { "icon": "images/skills/terraform.png", "title": "Terraform" },
+          { "icon": "images/skills/helm.png", "title": "Helm" }
+        ]
+      },
+      {
+        "title": "Monitoring & Observability",
+        "items": [
+          { "icon": "images/skills/grafana.png", "title": "Grafana" },
+          { "icon": "images/skills/prometheus.png", "title": "Prometheus" },
+          { "icon": "images/skills/cloudwatch.png", "title": "CloudWatch" },
+          { "icon": "images/skills/fluentd.png", "title": "FluentD" }
+        ]
+      },
+      {
+        "title": "MLOps & Data Engineering",
+        "items": [
+          { "icon": "images/skills/vertexai.png", "title": "Vertex AI" },
+          { "icon": "images/skills/airflow.png", "title": "Apache Airflow" },
+          { "icon": "images/skills/mlops.png", "title": "MLOps" },
+          { "icon": "images/skills/etl.png", "title": "ETL Pipelines" }
+        ]
+      },
+      {
+        "title": "Networking & IoT",
+        "items": [
+          { "icon": "images/skills/istio.png", "title": "Istio" },
+          { "icon": "images/skills/network.png", "title": "Network Protocols" },
+          { "icon": "images/skills/mqtt.png", "title": "MQTT" },
+          { "icon": "images/skills/coap.png", "title": "CoAP" },
+          { "icon": "images/skills/esp32.png", "title": "ESP32" },
+          { "icon": "images/skills/raspberrypi.png", "title": "Raspberry Pi" }
+        ]
+      }
+    ]
+  }
+  

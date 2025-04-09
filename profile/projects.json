@@ -1,0 +1,88 @@
+{
+    "projects": [
+      {
+        "title": "CloudForge",
+        "bodyText": "- A cloud-native DevOps pipeline with GitOps and Terraform.\n- CI/CD with Jenkins and Groovy scripting.\n- Infrastructure deployed on AWS EKS using Terraform.\n- LLM-powered chatbot for CVE search using Hugging Face and vector embeddings.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://github.com/orgs/cloud-forge-advance-cloud/repositories"
+          }
+        ],
+        "tags": ["AWS", "EKS", "Terraform", "Jenkins", "LLM", "HuggingFace", "Grafana", "Prometheus", "istio", "kafka", "Postgresql", "Go"]
+      },
+      {
+        "title": "AskNeu (In Progress)",
+        "bodyText": "- MLOps pipeline built on GCP for a university chatbot.\n- Integrates Vertex AI model with Airflow orchestration.\n- End-to-end deployment on GKE with CI/CD using GitHub Actions.\n- Data storage and versioning using GCS.",
+        "links": [],
+        "tags": ["GCP", "Vertex AI", "Airflow", "GKE", "CI/CD", "GitHub Actions"]
+      },
+      {
+        "title": "CloudCraft",
+        "bodyText": "- A full-stack microservice cloud app deployed on GCP.\n- Infrastructure provisioned with Terraform and Github Actions.\n- Monitored using google ops agent.\n- Created a microservice to send verification to users.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://github.com/orgs/cloud-craft-project-fullstack/repositories"
+          }
+        ],
+        "tags": ["Node.js", "GCP", "Terraform","pub/sub","Packer","VPC", "MySql", "Microservices", "Google Compute Engine", "Centos"]
+      },
+      {
+        "title": "MachineLearning-Timeseries",
+        "bodyText": "- Time Series forecasting and anomaly detection.\n- Models include ARIMA and LSTM.\n- Python notebooks used for data visualization and model training.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://github.com/poojapk0605/MachineLearning-Timeseries"
+          }
+        ],
+        "tags": ["Python", "LSTM", "ARIMA", "Time Series", "Jupyter"]
+      },
+      {
+        "title": "CarPoolEasy",
+        "bodyText": "- A ride-sharing coordination web app.\n- Tracks routes, requests, and ride statuses.\n- Built with Java for backend, JavaFX for frontend and real-time updates.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://github.com/poojapk0605/CarPoolEasy"
+          }
+        ],
+        "tags": ["Java", "JavaFx", "GCP", "SMTP", "MySql", "OOP concepts"]
+      },
+      {
+        "title": "Miniproject_IOT",
+        "bodyText": "- Real-time sensor data collection using Raspberry Pi.\n- Data sent via MQTT to a cloud dashboard.\n- Focus on edge computing and lightweight protocol design.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://github.com/poojapk0605/Miniproject_IOT"
+          }
+        ],
+        "tags": ["IoT", "MQTT", "Raspberry Pi", "Sensors", "Edge Computing"]
+      },
+      {
+        "title": "Iot-WildGuard-System",
+        "bodyText": "- IoT system for detecting wild animal movements.\n- Utilizes edge sensors and ESP32.\n- Sends alerts through MQTT and displays data on a real-time dashboard.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://github.com/poojapk0605/Iot-WildGuard-System"
+          }
+        ],
+        "tags": ["COAP", "MQTT", "IoT", "Sensors", "Java", "Python"]
+      },
+      {
+        "title": "Portfolio Website",
+        "bodyText": "- A minimalist portfolio built in React and hosted on GitHub Pages.\n- Fully customizable via JSON config.\n- Includes resume, project showcase, and contact info.",
+        "links": [
+          {
+            "text": "Live",
+            "href": "https://poojapk0605.github.io/"
+          }
+        ],
+        "tags": ["React", "Portfolio", "JavaScript", "GitHub Pages"]
+      }
+    ]
+  }
+  

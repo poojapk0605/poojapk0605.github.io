@@ -1,0 +1,5 @@
+{
+    "about": "👋 Hi, I’m Pooja Kannan — a DevOps & MLOps enthusiast currently pursuing my Master’s in Cyber-Physical Systems at Northeastern University (Graduating May 2025).\n\n🛠️ I specialize in building scalable, cloud-native infrastructure using tools like Terraform, Kubernetes, Docker, GitHub Actions, and Jenkins, with real-world deployments on GCP and AWS.\n\n🔁 I'm passionate about automation — from infrastructure provisioning to model deployment — and I'm currently building an end-to-end MLOps pipeline using Vertex AI, GKE, Airflow, and GCS to orchestrate LLM-powered chatbots.\n\n💻 With a foundation in software engineering, I enjoy writing Python, Java, and Node.js code to develop microservices, REST APIs, and automation scripts. I’ve also worked on IoT systems using ESP32, MQTT, and Raspberry Pi with a focus on edge-to-cloud integration.\n\n🌐 I'm an active member of the MLOps Community and an early explorer of decentralized platforms like Bluesky.\n\n📌 Let’s automate everything — from infrastructure to ML workflows.",
+    "imageSource": "images/about/profile.png"
+  }
+  
