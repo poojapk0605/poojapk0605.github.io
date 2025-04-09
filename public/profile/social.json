@@ -1,0 +1,20 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/poojakannanpk/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/poojapk0605"
+        },
+        {
+            "network" : "email",
+            "href": "poojahusky@gmail.com"
+        },
+        {
+           "network" : "bluesky",
+           "href" : "https://bsky.app/profile/pooja-kannan.bsky.social"
+        }
+    ]
+}
