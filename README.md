@@ -48,6 +48,13 @@ cd poojapk0605.github.io
 yarn install
 yarn start
 
+### To push to github 
+yarn build
+git add .
+git commit 
+git push 
+yarn deploy
+
 
 Thank you for visting 
 
