@@ -5,14 +5,44 @@
             "subtitle": "HCL Technologies",
             "workType": "Full-time",
             "dateText": "08/2021 – 08/2023",
-            "workDescription": ["Built and secured cloud infrastructure using Terraform, GitHub Actions, and Jenkins, integrating CI/CD and IAM-based RBAC policies for AWS environments."]
+            "workDescription": [
+                "Built and secured cloud infrastructure using Terraform, GitHub Actions, and Jenkins, integrating CI/CD and IAM-based RBAC policies for AWS environments.",
+                "Implemented AWS-based backup and disaster recovery solutions using S3, enhancing system resilience and uptime.",
+                "Monitored hybrid Exchange infrastructure and ensured compliance for 10,000+ users using cloud-native observability tools."
+            ]
         },
         {
             "title": "Junior Cloud Ops Engineer",
             "subtitle": "Concentrix",
             "workType": "Full-time",
             "dateText": "12/2019 – 07/2021",
-            "workDescription": ["Migrated hybrid workloads to AWS and GCP, automated ops with PowerShell and Jenkins, and improved deployment efficiency and incident response."]
+            "workDescription": [
+                "Migrated hybrid workloads to AWS and GCP, automated ops with PowerShell and Jenkins, and improved deployment efficiency and incident response.",
+                "Provisioned cloud infrastructure using Terraform and Ansible, improving configuration consistency across environments.",
+                "Assisted with CI/CD pipeline development and cloud security reviews."
+            ]
+        },
+        {
+            "title": "Technical Consultant – Exchange/Office 365",
+            "subtitle": "Wipro Technologies",
+            "workType": "Full-time",
+            "dateText": "12/2018 – 12/2019",
+            "workDescription": [
+                "Supported hybrid Exchange/Office 365 environments for a global user base, resolving high-priority incidents and sync issues.",
+                "Automated administrative tasks using remote PowerShell scripts to streamline operations and tenant hygiene.",
+                "Collaborated with infra teams on identity and access management, user provisioning, and backup strategies."
+            ]
+        },
+        {
+            "title": "Engineer Trainee – Application Support",
+            "subtitle": "CSS Corp",
+            "workType": "Full-time",
+            "dateText": "12/2017 – 12/2018",
+            "workDescription": [
+                "Delivered Tier 1 and Tier 2 support for enterprise telephony applications, participating in debugging and maintenance activities.",
+                "Contributed to monthly service delivery reviews and monitored uptime metrics.",
+                "Followed ITIL-based incident and change management workflows using support and ticketing tools."
+            ]
         }
     ]
 }

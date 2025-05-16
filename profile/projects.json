@@ -12,7 +12,7 @@
         "tags": ["AWS", "EKS", "Terraform", "Jenkins", "LLM", "HuggingFace", "Grafana", "Prometheus", "istio", "kafka", "Postgresql", "Go"]
       },
       {
-        "title": "AskNeu (In Progress)",
+        "title": "AskNeu (University RAG Chatbot Platform)",
         "bodyText": "- MLOps pipeline built on GCP for a university chatbot.\n- Integrates Vertex AI model with Airflow orchestration.\n- End-to-end deployment on GKE with CI/CD using GitHub Actions.\n- Data storage and versioning using GCS.",
         "links": [],
         "tags": ["GCP", "Vertex AI", "Airflow", "GKE", "CI/CD", "GitHub Actions"]
