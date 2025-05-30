@@ -1,25 +1,21 @@
 {
     "experiences": [
         {
-            "title": "Messaging Engineer - DevOps Engineer",
+            "title": "IT Infrastructure Specialist",
             "subtitle": "HCL Technologies",
             "workType": "Full-time",
             "dateText": "08/2021 – 08/2023",
             "workDescription": [
-                "Built and secured cloud infrastructure using Terraform, GitHub Actions, and Jenkins, integrating CI/CD and IAM-based RBAC policies for AWS environments.",
-                "Implemented AWS-based backup and disaster recovery solutions using S3, enhancing system resilience and uptime.",
-                "Monitored hybrid Exchange infrastructure and ensured compliance for 10,000+ users using cloud-native observability tools."
+                "Automated Exchange management and AWS-based backup operations using PowerShell and Jenkins, while supporting infrastructure and uptime across a hybrid environment serving 10,000+ users."
             ]
         },
         {
-            "title": "Junior Cloud Ops Engineer",
+            "title": "Support Engineer – Cloud Operations ",
             "subtitle": "Concentrix",
             "workType": "Full-time",
             "dateText": "12/2019 – 07/2021",
             "workDescription": [
-                "Migrated hybrid workloads to AWS and GCP, automated ops with PowerShell and Jenkins, and improved deployment efficiency and incident response.",
-                "Provisioned cloud infrastructure using Terraform and Ansible, improving configuration consistency across environments.",
-                "Assisted with CI/CD pipeline development and cloud security reviews."
+                "Contributed to hybrid cloud infrastructure management across AWS and GCP, automating provisioning with Terraform, enhancing CI/CD with Jenkins, and supporting monitoring and root cause analysis for escalated issues."
             ]
         },
         {
@@ -28,9 +24,7 @@
             "workType": "Full-time",
             "dateText": "12/2018 – 12/2019",
             "workDescription": [
-                "Supported hybrid Exchange/Office 365 environments for a global user base, resolving high-priority incidents and sync issues.",
-                "Automated administrative tasks using remote PowerShell scripts to streamline operations and tenant hygiene.",
-                "Collaborated with infra teams on identity and access management, user provisioning, and backup strategies."
+               "Supported Exchange Online and hybrid environments in a global multi-domain setup, resolving escalations and ensuring Office 365 tenant health for 10,000+ users while collaborating on best practices and sync issues."
             ]
         },
         {
@@ -39,10 +33,9 @@
             "workType": "Full-time",
             "dateText": "12/2017 – 12/2018",
             "workDescription": [
-                "Delivered Tier 1 and Tier 2 support for enterprise telephony applications, participating in debugging and maintenance activities.",
-                "Contributed to monthly service delivery reviews and monitored uptime metrics.",
-                "Followed ITIL-based incident and change management workflows using support and ticketing tools."
+                "Provided Tier 1–2 support for custom telephony/software systems, assisting with debugging, scripting, and client reviews while adhering to ITIL practices and contributing to uptime and service delivery improvements."
             ]
         }
     ]
-}
+} 
+
