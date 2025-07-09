@@ -1,41 +1,44 @@
 {
-    "experiences": [
-        {
-            "title": "IT Infrastructure Specialist",
-            "subtitle": "HCL Technologies",
-            "workType": "Full-time",
-            "dateText": "08/2021 – 08/2023",
-            "workDescription": [
-                "Automated Exchange management and AWS-based backup operations using PowerShell and Jenkins, while supporting infrastructure and uptime across a hybrid environment serving 10,000+ users."
-            ]
-        },
-        {
-            "title": "Support Engineer – Cloud Operations ",
-            "subtitle": "Concentrix",
-            "workType": "Full-time",
-            "dateText": "12/2019 – 07/2021",
-            "workDescription": [
-                "Contributed to hybrid cloud infrastructure management across AWS and GCP, automating provisioning with Terraform, enhancing CI/CD with Jenkins, and supporting monitoring and root cause analysis for escalated issues."
-            ]
-        },
-        {
-            "title": "Technical Consultant – Exchange/Office 365",
-            "subtitle": "Wipro Technologies",
-            "workType": "Full-time",
-            "dateText": "12/2018 – 12/2019",
-            "workDescription": [
-               "Supported Exchange Online and hybrid environments in a global multi-domain setup, resolving escalations and ensuring Office 365 tenant health for 10,000+ users while collaborating on best practices and sync issues."
-            ]
-        },
-        {
-            "title": "Engineer Trainee – Application Support",
-            "subtitle": "CSS Corp",
-            "workType": "Full-time",
-            "dateText": "12/2017 – 12/2018",
-            "workDescription": [
-                "Provided Tier 1–2 support for custom telephony/software systems, assisting with debugging, scripting, and client reviews while adhering to ITIL practices and contributing to uptime and service delivery improvements."
-            ]
-        }
-    ]
-} 
-
+  "experiences": [
+    {
+      "title": "DevOps & Cloud Engineer",
+      "subtitle": "HCL Technologies",
+      "workType": "Full-time",
+      "dateText": "08/2021 – 08/2023",
+      "workDescription": [
+        "Delivered scalable cloud services and automated CI/CD pipelines to improve deployment speed and system stability.",
+        "Contributed to secure infrastructure design, service communication, and observability enhancements in production systems."
+      ]
+    },
+    {
+      "title": "Cloud Operations Engineer",
+      "subtitle": "Concentrix",
+      "workType": "Full-time",
+      "dateText": "12/2019 – 07/2021",
+      "workDescription": [
+        "Implemented cloud automation strategies and supported service uptime across containerized environments.",
+        "Improved pipeline efficiency and visibility through integrated monitoring, testing, and access control frameworks."
+      ]
+    },
+    {
+      "title": "Cloud Infrastructure Engineer",
+      "subtitle": "Wipro Technologies",
+      "workType": "Full-time",
+      "dateText": "12/2018 – 12/2019",
+      "workDescription": [
+        "Assisted with infrastructure provisioning, deployment pipelines, and monitoring across enterprise systems.",
+        "Maintained secure deployment workflows and supported cloud operations across development stages."
+      ]
+    },
+    {
+      "title": "Junior Cloud Engineer",
+      "subtitle": "CSS Corp",
+      "workType": "Full-time",
+      "dateText": "12/2017 – 12/2018",
+      "workDescription": [
+        "Supported cloud deployments and CI/CD setup in early production environments, resolving infra-related issues.",
+        "Contributed to performance optimization, patching, and service reliability under strict operational requirements."
+      ]
+    }
+  ]
+}
