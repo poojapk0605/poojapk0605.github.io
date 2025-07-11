@@ -6,8 +6,9 @@
       "workType": "Full-time",
       "dateText": "08/2021 – 08/2023",
       "workDescription": [
-        "Delivered scalable cloud services and automated CI/CD pipelines to improve deployment speed and system stability.",
-        "Contributed to secure infrastructure design, service communication, and observability enhancements in production systems."
+        "Automated deployment pipelines using Jenkins (Groovy) and Terraform on AWS EC2, reducing release time by 40%.",
+        "Built Kafka-based pub/sub services and secured microservice traffic with Istio and mTLS, improving CVE ingestion and compliance.",
+        "Enabled observability with Prometheus and Grafana, reducing incident resolution time by 30% through real-time metrics tracking."
       ]
     },
     {
@@ -16,8 +17,9 @@
       "workType": "Full-time",
       "dateText": "12/2019 – 07/2021",
       "workDescription": [
-        "Implemented cloud automation strategies and supported service uptime across containerized environments.",
-        "Improved pipeline efficiency and visibility through integrated monitoring, testing, and access control frameworks."
+        "Modernized AWS infrastructure using Terraform and Helm, ensuring consistent deployments across dev and prod environments.",
+        "Designed CI/CD pipelines in Jenkins with integrated security scans and test stages, increasing rollout reliability by 25%.",
+        "Configured Grafana dashboards with Prometheus exporters to monitor Kafka events and container health."
       ]
     },
     {
@@ -26,8 +28,9 @@
       "workType": "Full-time",
       "dateText": "12/2018 – 12/2019",
       "workDescription": [
-        "Assisted with infrastructure provisioning, deployment pipelines, and monitoring across enterprise systems.",
-        "Maintained secure deployment workflows and supported cloud operations across development stages."
+        "Deployed backend services on Azure using Terraform and ARM templates, cutting provisioning time by 40%.",
+        "Built CI/CD pipelines using Packer and GitHub Actions for consistent image creation and zero-downtime deployments.",
+        "Implemented secure email verification flow using Azure Service Bus, improving user onboarding success rate."
       ]
     },
     {
@@ -36,8 +39,9 @@
       "workType": "Full-time",
       "dateText": "12/2017 – 12/2018",
       "workDescription": [
-        "Supported cloud deployments and CI/CD setup in early production environments, resolving infra-related issues.",
-        "Contributed to performance optimization, patching, and service reliability under strict operational requirements."
+        "Provisioned GCP infrastructure using Terraform for VPCs, firewall rules, and autoscaling groups, improving environment consistency.",
+        "Managed CI/CD workflows with GitHub Actions and deployed Node.js apps on Compute Engine using Packer.",
+        "Enabled monitoring using Prometheus and resolved production issues under SLAs, reducing MTTR in high-pressure environments."
       ]
     }
   ]
